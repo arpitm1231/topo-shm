@@ -6,6 +6,8 @@ by real published research applying TDA to the **Z24 Bridge dataset**, a
 real bridge in Switzerland that was deliberately damaged and monitored
 before being demolished.
 
+Live Demo:https://topo-shm.streamlit.app/
+
 This is a **working, runnable demo**: simulated but physically-motivated
 sensor data, real persistence diagram computation (via `ripser`), and a
 real (if simple) anomaly detector, with quantitative results — not just a

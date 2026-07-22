@@ -5,6 +5,7 @@ to detect structural damage signatures in vibration sensor data — inspired
 by real published research applying TDA to the **Z24 Bridge dataset**, a
 real bridge in Switzerland that was deliberately damaged and monitored
 before being demolished.
+
 Live Demo:https://topo-shm.streamlit.app
 
 This is a **working, runnable demo**: simulated but physically-motivated
